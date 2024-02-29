@@ -67,8 +67,8 @@ img{
     justify-content:center;
 }
 .image{
-    width: 150px;
-    height:150px;
+    width: 250px;
+    height:250px;
     display:flex; 
     justify-content: space-around; 
 }
@@ -94,7 +94,7 @@ img{
     padding: 16px 5px;
     border: none;
     border-radius: 30px;
-    width: 10%;
+    width: 5%;
     color: black;
     background-color: none;
 }
@@ -106,4 +106,10 @@ img{
 .price{
     display:flex;
     justify-content: space-around;  
+}
+.design{
+    display:flex;
+    justify-content: space-between;
+    width: 100px;
+    height:100px;  
 }
